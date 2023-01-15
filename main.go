@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// fileName represenets the input file for quiz
+// fileName represents the input file for quiz
 const (
 	fileName = "quiz.csv"
 )
